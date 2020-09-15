@@ -30,7 +30,7 @@ const data = [
     id: 5,
     title: 'Online Payment:',
     Content:
-      'This Zeiq Delivery application has online payment gateway integration so user can do online payment while placing their order.',
+      'This Digital Alcoholic Delivery application has online payment gateway integration so user can do online payment while placing their order.',
   },
   {
     id: 6,
@@ -54,7 +54,7 @@ const data = [
     id: 9,
     title: 'Terms & Conditions:',
     Content:
-      'Here user can read about your Zeiq Store Shopping App terms and conditions. So get aware about all your Zeiq delivery app business so they can make their decision and do happy shopping with your Zeiq delivery app',
+      'Here user can read about your Digital Alcoholic Store Shopping App terms and conditions. So get aware about all your Digital Alcoholic delivery app business so they can make their decision and do happy shopping with your Digital Alcoholic delivery app',
   },
   {
     id: 10,
@@ -66,14 +66,14 @@ const data = [
     id: 11,
     title: 'FAQ:',
     Content:
-      'Here user will see all information like, does your charge extra for delivery, How secure is your app for do online payment and more. This section is fully customization, So you can add question based on your business and Zeiq Delivery shopper requirements.',
+      'Here user will see all information like, does your charge extra for delivery, How secure is your app for do online payment and more. This section is fully customization, So you can add question based on your business and Digital Alcoholic Delivery shopper requirements.',
   },
 ];
 
 const DeliveryContent = () => (
   <div className="section">
     <div className="container">
-      {data.map((item) => (
+      {data.map(item => (
         <dl className="row">
           <dt className="col-sm-2">
             <h5 className="font-weight-bold">{item.title} </h5>

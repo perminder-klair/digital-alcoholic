@@ -30,10 +30,10 @@ const Footer = () => {
                 <p>
                   <Link to="/" className="mini-logo">
                     <img
-                      src="/img/zeiq-logo-offblack.png"
+                      src="/images/logo.png"
                       width="144"
                       height="43"
-                      alt="zeiq"
+                      alt="digital-lcoholic"
                     />
                   </Link>
                 </p>

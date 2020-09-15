@@ -4580,14 +4580,14 @@ h1,
 h2,
 h3 {
   font-family: 'Merriweather', sans-serif;
-  color: #262a2c;
+  color: #000000;
 }
 
 h4,
 h5,
 h6 {
   font-family: 'Rubik', sans-serif;
-  color: #262a2c;
+  color: #000000;
 }
 
 h1 {
@@ -4649,7 +4649,7 @@ blockquote {
   font-size: 1.6rem;
   font-weight: 400;
   background-color: #f7f9fb;
-  color: #262a2c;
+  color: #000000;
   padding: 2rem;
   text-align: center;
   margin: 2rem auto 2rem;
@@ -4818,12 +4818,12 @@ hr,
   border: 0;
   line-height: 1;
   text-align: center;
-  background-color: #654ce8;
+  background-color: #f8cc07;
 }
 
 /* 4. Links */
 a {
-  color: #654ce8;
+  color: #f8cc07;
   text-decoration: none;
 }
 
@@ -5003,7 +5003,7 @@ input[type='button'],
     rgba(255, 255, 255, 0),
     rgba(255, 255, 255, 0)
   );
-  background-color: #654ce8;
+  background-color: #f8cc02;
   color: #fff;
   cursor: pointer;
   outline: 0;
@@ -5061,7 +5061,7 @@ input[type='reset'].white,
 input[type='button'].white,
 .button.white {
   background-color: #fff;
-  color: #654ce8;
+  color: #000000;
   -webkit-box-shadow: 0 20px 40px 0 rgba(139, 153, 163, 0.1);
   box-shadow: 0 20px 40px 0 rgba(139, 153, 163, 0.1);
 }
@@ -5349,7 +5349,7 @@ body .extra-margin-top {
   left: -1.5em;
   width: 1.2rem;
   font-size: 18px;
-  color: #654ce8;
+  color: #f8cc02;
 }
 
 .social-link {
@@ -5357,7 +5357,7 @@ body .extra-margin-top {
   padding: 0.5rem;
   margin: 0 0.2rem 0.2rem;
   font-size: 18px;
-  color: #262a2c;
+  color: #f6cb0e;
 }
 
 .pagination {
@@ -5395,7 +5395,7 @@ body .extra-margin-top {
 .pagination > span,
 .pagination > .current {
   color: #fff;
-  background-color: #654ce8;
+  background-color: #f8cc07;
 }
 
 .pagination i {
@@ -5440,7 +5440,7 @@ body .extra-margin-top {
 }
 
 .tab-links li a.active {
-  color: #654ce8;
+  color: #f8cc07;
 }
 
 .tab-content {
@@ -5584,7 +5584,7 @@ body .extra-margin-top {
 }
 
 .text-color {
-  color: #654ce8;
+  color: #f8cc02;
 }
 
 .tweet {
@@ -5942,7 +5942,7 @@ body .extra-margin-top {
 }
 
 .owl-carousel .owl-dots .owl-dot.active span {
-  background-color: #654ce8;
+  background-color: #f8cc07;
 }
 
 /* 8. Header section */
@@ -5978,12 +5978,12 @@ body .extra-margin-top {
 }
 
 #site-menu a {
-  color: #262a2c;
+  color: #000000;
   text-transform: uppercase;
 }
 
 #site-menu .current-menu-item > a {
-  color: #654ce8;
+  color: #f8cc07;
 }
 
 #site-menu .menu-item-has-children {
@@ -6324,7 +6324,7 @@ body .extra-margin-top {
 }
 
 .team-member .social-links a {
-  color: #654ce8;
+  color: #f8cc07;
 }
 
 .brand-gallery {
@@ -6450,7 +6450,7 @@ body .extra-margin-top {
   font-family: 'Merriweather', sans-serif;
   font-size: 1.4rem;
   line-height: 2.2rem;
-  color: #262a2c;
+  color: #000000;
 }
 
 .project-thumb .project-thumb-details .description {
@@ -6471,7 +6471,7 @@ body .extra-margin-top {
   -webkit-transition: 0.3s opacity, 0.3s visibility, 0.3s left;
   -o-transition: 0.3s opacity, 0.3s visibility, 0.3s left;
   transition: 0.3s opacity, 0.3s visibility, 0.3s left;
-  color: #654ce8;
+  color: #f8cc02;
 }
 
 .project-thumb a:hover > i {
@@ -6554,7 +6554,7 @@ body .extra-margin-top {
 #address-selector .change-address {
   position: relative;
   display: inline-block;
-  color: #654ce8;
+  color: #f8cc02;
 }
 
 #address-selector .change-address:focus {
@@ -6719,7 +6719,7 @@ body .extra-margin-top {
 
 .widget li a:hover,
 .widget .current-cat > a {
-  color: #654ce8;
+  color: #f8cc07;
 }
 
 .widget .subscribe-form input[type='email'] {
@@ -6813,7 +6813,7 @@ body .extra-margin-top {
 }
 
 #footer .widget_nav_menu ul li a {
-  color: #262a2c;
+  color: #000000;
   text-transform: uppercase;
 }
 
@@ -7038,7 +7038,7 @@ body .extra-margin-top {
     padding: 0.25rem 0.75rem;
     margin-top: 0.2rem;
     margin-bottom: 0.2rem;
-    color: #262a2c;
+    color: #000000;
   }
 
   #site-menu .menu-expand {
@@ -7813,7 +7813,7 @@ body .extra-margin-top {
     top: 1.5rem;
     left: 1rem;
     opacity: 0;
-    color: #654ce8;
+    color: #f8cc07;
     -webkit-transition: 0.3s opacity, 0.3s left;
     -o-transition: 0.3s opacity, 0.3s left;
     transition: 0.3s opacity, 0.3s left;

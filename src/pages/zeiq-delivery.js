@@ -12,19 +12,22 @@ export default class ZeiqDelivery extends React.Component {
   render() {
     return (
       <Layout>
-        <Seo title="Zeiq Delivery" description="Zeiq Delivery App" />
+        <Seo
+          title="Digital Alcoholic Delivery"
+          description="Digital Alcoholic Delivery App"
+        />
         <GroceryHero />
         <GroceryScreens />
         <GrocerySlider />
         <Features
           image="/images/smartDownload.jpg"
-          title="ZEIQ DELIVERY MOBILE APP FEATURES"
+          title="DIGITAL ALCOHOLIC DELIVERY MOBILE APP FEATURES"
           buttonName="DOWNLOAD USER APP"
         />
         <Features
           flex
           image="/images/smartOpen.jpg"
-          title="ZEIQ DELIVERY APP DASHBOARD FEATURES"
+          title="DIGITAL ALCOHOLIC DELIVERY APP DASHBOARD FEATURES"
           buttonName="APP LIVE DEMO"
         />
         <DeliveryContent />

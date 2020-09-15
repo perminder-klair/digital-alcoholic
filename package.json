@@ -1,17 +1,17 @@
 {
-  "name": "zeiq.co",
-  "description": "Official website code of www.zeiq.co",
+  "name": "digitalalcoholic.co",
+  "description": "Official website code of www.digital-alcoholic.co",
   "version": "2.0.1",
   "author": "Parminder Klair",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeiq-co/zeiq-co.git"
+    "url": "https://github.com/perminder-klair/digital-alcoholic.git"
   },
   "bugs": {
-    "url": "https://github.com/zeiq-co/zeiq-co/issues"
+    "url": "https://github.com/perminder-klair/digital-alcoholic/issues"
   },
-  "homepage": "https://github.com/zeiq-co/zeiq-co#readme",
+  "homepage": "https://github.com/perminder-klair/digital-alcoholic/blob/master/README.md",
   "scripts": {
     "start": "npm run develop",
     "develop": "gatsby develop",

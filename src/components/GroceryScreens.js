@@ -50,7 +50,7 @@ const GroceryScreens = () => (
             <h2 className="page-header-title">APP ORDERING SYSTEM SCREENS</h2>
             <p className="lead page-header-text mb-5">
               Fully customizable, functional, ready-to-use by the end-users with
-              easily configurable Online Zeiq delivery Mobile
+              easily configurable Online Digital Alcoholic delivery Mobile
               Application/Software built on the latest leading technology
               Flutter. You Should check out with app features.
             </p>
@@ -58,10 +58,10 @@ const GroceryScreens = () => (
         </div>
       </div>
       <Row className="row">
-        {data.map((item) => (
+        {data.map(item => (
           <div className="col-lg-3 mb-5">
             <h4 className="title">{item.title}</h4>
-            {item.points.map((text) => (
+            {item.points.map(text => (
               <div>
                 <span className="icon page-title-container">
                   <i className="fas fa-check-circle" />

@@ -14,7 +14,7 @@ class ContactDetails extends React.Component {
                 <h1>
                   We’re @{' '}
                   <Link to="/" className="change-address">
-                    ZEIQ
+                    Digital Alcoholic
                   </Link>
                 </h1>
                 <ul className="ul-custom-bullet">

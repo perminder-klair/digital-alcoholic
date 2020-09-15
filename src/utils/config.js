@@ -1,17 +1,17 @@
 module.exports = {
   DEBUG: process.env.NODE_ENV === 'development',
 
-  siteName: 'Zeiq',
+  siteName: 'Digital Alcoholic',
   author: 'Parminder Klair',
-  description: 'Official Website for Zeiq.co',
-  siteUrl: 'https://www.zeiq.co',
+  description: 'Official Website for digitalalcoholic.co',
+  siteUrl: 'https://www.digitalalcoholic.co',
   logo: './img/zeiq-logo.png',
 
   telephone: '+1-123-123-123',
   email: 'john@doe.com',
   location: 'California, USA',
-  twitter: '@Zeiqofficial',
-  fbUserId: '@zeiq',
+  twitter: '@digitalalcoholicofficial',
+  fbUserId: '@digitalalcoholic',
   fbAppID: '@NAME-HERE',
 
   type: 'website',

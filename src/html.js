@@ -54,7 +54,7 @@ export default class HTML extends React.Component {
           />
           {this.props.postBodyComponents}
           <script src="/js/app.min.js" crossOrigin="anonymous" />
-          <script src="/js/crisp.js" />
+          {/* <script src="/js/crisp.js" /> */}
           <script src="/js/scripts.js" />
         </body>
       </html>

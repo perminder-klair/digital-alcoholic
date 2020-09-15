@@ -1,8 +1,8 @@
-# Zeiq.co
+# digitalalcoholic.co
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3747f5de-39b5-4395-ad95-a0a53c0569c3/deploy-status)](https://app.netlify.com/sites/zeiq/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3747f5de-39b5-4395-ad95-a0a53c0569c3/deploy-status)](https://app.netlify.com/sites/digitalalcoholic/deploys)
 
-Official website code of www.zeiq.co
+Official website code of www.digitalalcoholic.co
 
 ## Stack
 

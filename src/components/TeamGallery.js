@@ -45,8 +45,8 @@ const TeamGallery = () => {
       <div className="row">
         <div className="col-md-6 col-lg-4">
           <h3>
-            The people who work at Zeiq share the vision and values of our
-            community.
+            The people who work at Digital Alcoholic share the vision and values
+            of our community.
           </h3>
           <p>
             We’re driven by the idea that the best work is born from diligence,

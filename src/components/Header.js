@@ -9,8 +9,8 @@ const Header = () => (
           <h1>
             <Link to="/">
               <img
-                src="/img/zeiq-logo-offblack.png"
-                alt="Zeiq"
+                src="/images/logo.png"
+                alt="Digita-Alcoholic"
                 style={{ height: 43 }}
               />
             </Link>
@@ -26,21 +26,21 @@ const Header = () => (
               <li>
                 <Link to="/work">Work</Link>
               </li>
-              {/*<li>
+              {/* <li>
                 <Link to="/services">Services</Link>
-              </li>*/}
+              </li> */}
               <li>
                 <Link to="/about">About</Link>
               </li>
-  {/*<li>
+              {/* <li>
                 <Link to="/news">News</Link>
-              </li>*/}
+              </li> */}
               <li>
                 <Link to="/contact">Contact</Link>
               </li>
-              <li>
+              {/* <li>
                 <Link to="/jobs">Jobs</Link>
-              </li>
+              </li> */}
               <li>
                 <Link to="/open-source">Open Source</Link>
               </li>
